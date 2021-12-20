@@ -1,0 +1,2 @@
+# LeCringeBot
+A Discord bot.
